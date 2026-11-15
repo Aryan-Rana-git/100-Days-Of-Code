@@ -18,3 +18,6 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ## Day 3
 ### Q5: Write a program to convert temperature from Celsius to Fahrenheit.
 * **Solution:** [View Program (q5.c)](./Day-03/q5.c)
+### Q6: Write a program to swap two numbers using a third variable.
+* **Solution:** [View Program (q6.c)](./Day-03/q6.c)
+
