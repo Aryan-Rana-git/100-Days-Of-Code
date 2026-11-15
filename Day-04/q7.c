@@ -4,8 +4,6 @@ int main() {
     int a, b;
     printf("Enter two numbers to swap: ");
     scanf("%d %d", &a, &b);
-    
-    // Swapping without a third variable using arithmetic
     a = a + b;
     b = a - b;
     a = a - b;
