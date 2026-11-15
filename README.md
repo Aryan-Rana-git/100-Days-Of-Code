@@ -24,3 +24,6 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ## Day 4
 ### Q7: Write a program to swap two numbers without using a third variable.
 * **Solution:** [View Program (q7.c)](./Day-04/q7.c)
+### Q8: Write a program to find and display the sum of the first n natural numbers.
+* **Solution:** [View Program (q8.c)](./Day-04/q8.c)
+
