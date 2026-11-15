@@ -30,3 +30,6 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ## Day 5
 ### Q9: Write a program to calculate simple and compound interest for given principal, rate, and time.
 * **Solution:** [View Program (q9.c)](./Day-05/q9.c)
+### Q10: Write a program to input time in seconds and convert it to hours:minutes:seconds format.
+* **Solution:** [View Program (q10.c)](./Day-05/q10.c)
+
