@@ -27,3 +27,6 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ### Q8: Write a program to find and display the sum of the first n natural numbers.
 * **Solution:** [View Program (q8.c)](./Day-04/q8.c)
 
+## Day 5
+### Q9: Write a program to calculate simple and compound interest for given principal, rate, and time.
+* **Solution:** [View Program (q9.c)](./Day-05/q9.c)
