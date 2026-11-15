@@ -12,3 +12,5 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ## Day 2
 ### Q3: Write a program to calculate the area and perimeter of a rectangle given its length and breadth.
 * **Solution:** [View Program (q1.c)](./Day-02/q1.c)
+### Q2: Write a program to calculate the area and circumference of a circle given its radius.
+* **Solution:** [View Program (q2.c)](./Day-02/q2.c)
