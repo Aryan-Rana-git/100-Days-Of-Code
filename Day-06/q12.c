@@ -5,7 +5,6 @@ int main() {
     printf("Enter an integer: ");
     scanf("%d", &num);
     
-    // Using nested if-else statements
     if (num >= 0) {
         if (num == 0) {
             printf("Zero\n");
