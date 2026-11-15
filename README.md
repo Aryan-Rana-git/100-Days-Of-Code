@@ -33,3 +33,6 @@ Two problems a day for the first 50 days, one a day after that — show up, solv
 ### Q10: Write a program to input time in seconds and convert it to hours:minutes:seconds format.
 * **Solution:** [View Program (q10.c)](./Day-05/q10.c)
 
+## Day 6
+### Q11: Write a program to input an integer and check whether it is even or odd using if–else.
+* **Solution:** [View Program (q11.c)](./Day-06/q11.c)
