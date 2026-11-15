@@ -9,7 +9,6 @@ int main() {
     double simple_interest = (principal * rate * time) / 100.0;
     double compound_interest = principal * (pow(1.0 + (rate / 100.0), time) - 1.0);
     
-    // Printing results with flexible decimal precision matching test cases
     printf("Simple Interest=%.0f, Compound Interest=%.2f\n", simple_interest, compound_interest);
     return 0;
 }
